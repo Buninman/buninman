@@ -18,6 +18,8 @@ I have completed my basic **JavaScript**, **HTML** and **CSS** training and am s
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+![](https://www.codewars.com/users/Buninman/badges/large)
+
 ![](https://komarev.com/ghpvc/?username=buninman)
 
 <!--
