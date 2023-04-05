@@ -1,17 +1,18 @@
 <h1 align="left">Hi there, I'm Alex
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="left">I lerning development and writing my
-  <a href="https://Buninman.ru/" target="_blank">blog</a></h3>
+<h3 align="left">I lerning development 3D-websites</h3>
+
+I'm taking a course by <a href="https://bruno-simon.com/" target="_blank">Bruno Simon</a> and learn how to make websites like him😎
   
 ---
+Now I use this in my work: <b>Blender3D, HTML, CSS, JS, Three.js, GLSL</b>
 
-I have completed my basic **JavaScript**, **HTML** and **CSS** training and am starting to learn next.
-🙄 My plans are to study:
-- React.js or Vue.js
-- Three.js, 👀 I really want to take the course of <a href="https://bruno-simon.com/" target="_blank">Bruno Simon</a> and learn how to make websites like him😎
-- Blender 3D
-- Phyton or Go
+And my plans 🙄 are to study:
+- React.js
+- Unity or Cocos or Godot
+
+My first work <a href="https://kaino-wagon.vercel.app/" target="_blank">here</a>
 
 ---
 
