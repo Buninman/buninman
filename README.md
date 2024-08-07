@@ -10,9 +10,8 @@
 <a href="http://ladik.games/" target="_blank">
   <img src="social/ladik.png" title="Go to Ladik.Games site" alt="Ladik.Games" width="334" />
 </a>
-<a href="#" target="_blank">
-  <img src="social/jedi.png" title="Jedi Knight site" alt="Jedi Knight" width="334" />
-</a> 
+<img src="social/jedi.png" title="Jedi Knight site" alt="Jedi Knight" width="334" />
+
 
 <br></br>
 If you want to hire me, you can write to <a href="https://t.me/buninman" target="_blank">telegram</a>
