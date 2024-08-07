@@ -1,17 +1,19 @@
+---
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=500&color=E6EDF3&width=435&separator=%3C&lines=My+name+is+Alex+Buninman;%3CI'm+a+Designer+%26+a+Creative+Developer;%3CI+like+to+make+websites+with+Three.js;%3CI'm+looking+for+a+Frontend+job+now;%3CThanks+for+visiting+my+Github!;" alt="Typing SVG" />
 <a href="https://buninman.github.io/pong-js/" target="_blank">
-  <img src="social/pong.png" title="Go to Kaino Wagon site" alt="Kaino Wagon" width="334"/>
+  <img src="social/pong.png" title="Go to Pong site" alt="Pong" width="334"/>
 </a>
 <a href="https://kaino-wagon.vercel.app/" target="_blank">
   <img src="social/kaino.png" title="Go to Kaino Wagon site" alt="Kaino Wagon" width="334"/>
 </a>
 <a href="http://ladik.games/" target="_blank">
-  <img src="social/ladik.png" title="Go to Kaino Wagon site" alt="Kaino Wagon" width="334" />
+  <img src="social/ladik.png" title="Go to Ladik.Games site" alt="Ladik.Games" width="334" />
 </a>
 <a href="#" target="_blank">
-  <img src="social/jedi.png" title="Go to Kaino Wagon site" alt="Kaino Wagon" width="334" />
+  <img src="social/jedi.png" title="Jedi Knight site" alt="Jedi Knight" width="334" />
 </a> 
-<br></br>
+
 <br></br>
 If you want to hire me, you can write to <a href="https://t.me/buninman" target="_blank">telegram</a>
 <br></br>
